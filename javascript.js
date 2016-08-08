@@ -1,1 +1,3 @@
-//test
+$(function(){
+	console.log('neat-o!');
+});
